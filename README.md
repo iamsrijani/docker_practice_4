@@ -1,8 +1,6 @@
-# program4_docker
-PROGRAM 4: Integrate Git with Docker for Source-Controlled Application Build
+Practice program 4: Integrate Git with Docker for Source-Controlled Application Build
 
 1. Aim
-
 To develop a Flask application, containerize it using Docker, and integrate Git and GitHub for source code management and version control.
 
 2. Technologies Used
@@ -14,11 +12,9 @@ To develop a Flask application, containerize it using Docker, and integrate Git 
 * GitHub
 * Ubuntu
 
-3. Project Description
+3. Description
 
-This project demonstrates how to create a simple Python Flask web application, package it into a Docker image, run it inside a Docker container, and maintain the source code using Git and GitHub.
-
-The application displays a welcome message when accessed through a web browser.
+This program demonstrates how to create a simple Python Flask web application, package it into a Docker image, run it inside a Docker container, and maintain the source code using Git and GitHub. The application displays a welcome message when accessed through a web browser.
 
 4. Project Structure
 
