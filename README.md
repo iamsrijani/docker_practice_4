@@ -1,6 +1,7 @@
 Practice program 4: Integrate Git with Docker for Source-Controlled Application Build
 
 1. Aim
+
 To develop a Flask application, containerize it using Docker, and integrate Git and GitHub for source code management and version control.
 
 2. Technologies Used
